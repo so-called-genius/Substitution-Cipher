@@ -12,7 +12,9 @@
 12. A:{M:9 times, N: 10 times} ----------------------------choose N for A
 13. B:{B:3 times, F:8 times, G:5 times }------------------choose F for B
 14. And every letter has the most potential letter. It is still possible for duplicate letter correspond to single letter. Then I use guess to solve that.
-That is how it works.
+
+That is how it works
+
 Thanks for reading
 
 
